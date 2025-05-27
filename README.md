@@ -13,6 +13,7 @@ Emotion_Detection_Text_Classification/
 ├── app.py                      # Streamlit application for emotion detection
 ├── EDA.ipynb                   # Exploratory Data Analysis notebook
 ├── train_model.ipynb           # Model training and evaluation notebook
+├── README.md                   # Read me file
 ├── requirements.txt            # Python dependencies
 ├── .gitignore                  # Git ignore file
 └── .gitattributes              # Git attributes file
